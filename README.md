@@ -113,7 +113,23 @@ The following datasets were used and extracted using the I3D pre-trained network
   publisher={Elsevier}
 }
 ```
+---
+
+## Acknowledgement
+
+This work was conducted at:
+
+* School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang, Jiangsu, China
+* Faculty of Computing and Information Systems, Ghana Communication Technology University, Accra, Ghana
+
+---
+
+## Status
+
+🚀 Paper Published in Expert Systems with Applications (ESWA), Volume 295 (2026), Article 128753.
+
+📄 DOI: https://doi.org/10.1016/j.eswa.2025.128753
 
 ---
 ## TODO
-The code will be released soon, please wait!
+💻 Source code and pretrained models will be released soon.
