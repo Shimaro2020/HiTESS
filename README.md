@@ -22,5 +22,22 @@ The following datasets were used and extracted using the I3D pre-trained network
 * dataset_utility.py
 * process_dataset.py
 
+## Citation
+
+```bibtex
+
+@article{abiew2026hierarchical,
+  title={Hierarchical temporal sequence segmentation for weakly supervised video anomaly detection},
+  author={Abiew, Nuku Atta Kordzo and Gao, Lijian and Mao, Qirong},
+  journal={Expert Systems with Applications},
+  volume={295},
+  pages={128753},
+  year={2026},
+  doi={10.1016/j.eswa.2025.128753}
+  publisher={Elsevier}
+}
+```
+
+---
 ## TODO
 The code will be released soon, please wait!
