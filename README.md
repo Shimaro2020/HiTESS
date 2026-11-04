@@ -1,4 +1,4 @@
-# HiTeSS_VAD
+# HiTESS VAD
 The code of Hierarchical Sequence Selection for Video Anomaly Detection with Weak Labels
 ## Overview
 
